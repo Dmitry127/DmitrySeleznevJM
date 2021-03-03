@@ -1,4 +1,4 @@
-package batlshep.dimas;
+package javamentor.dmitry;
 
 public class Main {
 
